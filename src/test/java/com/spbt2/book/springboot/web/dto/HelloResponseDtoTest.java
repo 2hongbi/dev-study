@@ -1,14 +1,12 @@
 package com.spbt2.book.springboot.web.dto;
 
-import org.junit.Test;
-
+import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.assertThat;
-
 
 class HelloResponseDtoTest {
 
     @Test
-    public void lombokAbleTest() {
+    public void lombokTest() {
         // given
         String name = "test";
         int amount = 1000;
