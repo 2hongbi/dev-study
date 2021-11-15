@@ -1,11 +1,14 @@
 package com.spbt2.book.springboot.web;
 
 import com.spbt2.book.springboot.service.posts.PostsService;
+import com.spbt2.book.springboot.web.dto.PostsListResponseDto;
 import com.spbt2.book.springboot.web.dto.PostsResponseDto;
 import com.spbt2.book.springboot.web.dto.PostsSaveRequestDto;
 import com.spbt2.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RequiredArgsConstructor
 @RestController
@@ -23,8 +26,20 @@ public class PostsApiController {
         return postsService.update(id, requestDto);
     }
 
+    @DeleteMapping("/api/v1/posts/{id}")
+    public Long delete(@PathVariable Long id) {
+        postsService.delete(id);
+        return id;
+    }
+
     @GetMapping("/api/v1/posts/{id}")
-    public PostsResponseDto findByID(@PathVariable Long id) {
+    public PostsResponseDto findById(@PathVariable Long id) {
         return postsService.findById(id);
     }
+
+    @GetMapping("/api/v1/posts/list")
+    public List<PostsListResponseDto> findAll() {
+        return postsService.findAllDesc();
+    }
+
 }
