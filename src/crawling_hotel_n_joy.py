@@ -1,8 +1,7 @@
 import random
 import time
-
 import pandas as pd
-
+import chromedriver_autoinstaller
 from src.data_utils import calc_date, cleansing, similar
 from random import uniform
 from selenium import webdriver
@@ -94,8 +93,8 @@ def joy_detail(start_dt='2021-12-25', end_dt='2021-12-26'):
         time.sleep(uniform(2, 4))
 
         # 호텔 주소 (검사용)
-        hotel_addr = driver.find_element(By.CLASS_NAME, "add").text
-        print(hotel_addr)
+        # hotel_addr = driver.find_element(By.CLASS_NAME, "add").text
+        # print(hotel_addr)
 
         time.sleep(uniform(2, 4))
 
@@ -115,7 +114,7 @@ def main():
     #     res = {'name': cleansing(dfv[5]), 'loc': dfv[2][:2] + dfv[3],
     #            'latitude': dfv[18], 'longtitude': dfv[19]}
     #     crawling_list = joy_main(res['name'])
-    res = {'name': '테라스', 'loc': '부산기장군', 'latitude': 35.260825, 'longtitude': 129.2331258}
+    res = {'name': '테라스', 'loc': '부산기장군', 'latitude': 35.260825, 'longitude': 129.2331258}
     crawling_list = joy_main(res['name'])
     for item in crawling_list:
         if similar(res, item):
