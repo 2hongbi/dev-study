@@ -11,12 +11,14 @@ import random
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from src.data_utils import cleansing, get_hotel_en, similar, get_room_area, calc_date
+import openpyxl
 
 path = chromedriver_autoinstaller.install()  # 크롬 드라이버 install
 driver = webdriver.Chrome(path)
 
 def agoda_search(keyword, check_in_date='2021-12-13', check_out_date='2021-12-14'):
     # 호텔 서치 > 일단 부산만
+    """
     URL = 'https://www.agoda.com/ko-kr/search?guid=bf397690-2f46-488c-bcbd-cff9cffb2b17' \
           '&asq=u2qcKLxwzRU5NDuxJ0kOF3T91go8JoYYMxAgy8FkBH1BN0lGAtYH25sdXoy34qb9' \
           '%2BhzuLOrKzSr6JFEJ0k3mSyfy0007nWWyKbObtVe6S9McO%2F40GalFBfqxHkgpPRBg1f4tMtCkUOcG6AQSFmkuYt' \
@@ -30,6 +32,10 @@ def agoda_search(keyword, check_in_date='2021-12-13', check_out_date='2021-12-14
           'trafficGroupId=4&sessionId=qd3vrdnhvdv5lf2vgfu1sdt2&trafficSubGroupId=4&aid=130243&useFullPageLogin=true&' \
           'cttp=4&isRealUser=true&mode=production&checkIn=2021-12-07&checkOut=2021-12-08&rooms=1&adults=2&children=0' \
           '&priceCur=KRW&los=1&textToSearch=%EB%B6%80%EC%82%B0&productType=-1&travellerType=1&familyMode=off'
+    """
+
+    # 서울
+    URL = 'https://www.agoda.com/ko-kr/search?guid=1df4efe5-616e-48ef-afb8-3b8c85c93d3b&asq=8wUBc629jr0%2B3O%2BxycijdbQhFjp3J72e4gpjVoSXlX6Ph5EHSY5Tl7MIEvMHq1Az%2Fvvi834Acq%2BFr8bdOzCV85XlB2LrL%2BPF73BoPHffpcsz%2F6h6eeb3IkqkVpp5LsleikrSP3cx4715NAYXt0MMqXT8MFooA2Pn9ngP70VJPpm1kZDlZQE9pdrUG%2BuSju1wtQDL6afeOLVFlrg86NELVQ%3D%3D&city=14690&tick=637740847430&locale=ko-kr&ckuid=e5e0f971-b737-460e-a429-0e88a809b971&prid=0&currency=KRW&correlationId=eb79c248-dac8-40f7-a633-7d1028a8f784&pageTypeId=7&realLanguageId=9&languageId=9&origin=KR&cid=-142&userId=e5e0f971-b737-460e-a429-0e88a809b971&whitelabelid=1&loginLvl=0&storefrontId=3&currencyId=26&currencyCode=KRW&htmlLanguage=ko-kr&cultureInfoName=ko-kr&machineName=hk-crweb-2022&trafficGroupId=1&sessionId=uxvxqixldfgbcjfgnzr4exwh&trafficSubGroupId=84&aid=130589&useFullPageLogin=true&cttp=4&isRealUser=true&mode=production&checkIn=2021-12-13&checkOut=2021-12-14&rooms=1&adults=2&children=0&priceCur=KRW&los=1&textToSearch=%EC%84%9C%EC%9A%B8&productType=-1&travellerType=1&familyMode=off'
     URL = URL.replace('2021-12-07', check_in_date)
     URL = URL.replace('2021-12-08', check_out_date)
     driver.get(URL)
@@ -148,7 +154,8 @@ def agoda_detail(url, origin_dic):
 
 
 def main():
-    df = pd.read_csv('./../data/busan_hotel_2021_12_01.csv').loc[:60]  # 10개만 실행
+    df = pd.read_excel('./../data/hotel_2021_11_29_vol6.xlsx')  # 10개만 실행
+    df = df[df['지역1(시도)'] == '서울특별시']
 
     df_values = df.values
     prc = []
@@ -180,7 +187,7 @@ def main():
         org_df = pd.DataFrame(df_values)
         price_df = pd.DataFrame(prc)
         result = pd.concat([org_df, price_df], axis=1)
-        result.to_csv('test.csv', encoding='utf-8-sig')
+        result.to_csv('seoul.csv', encoding='utf-8-sig')
 
         driver.quit()
 
