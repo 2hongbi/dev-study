@@ -48,6 +48,12 @@ def check_loc(a, b):
     return False
 
 
+def calc_weekend_price(price):
+    price = int(price.replace(',', '')) * 1.2
+    price = '{:,.0f}'.format(price)
+    return price
+
+
 def get_hotel_en(text):
     pattern = '[\(\[].*?[\)\]]'
     text = re.search(pattern, text)
