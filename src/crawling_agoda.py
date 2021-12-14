@@ -19,8 +19,21 @@ driver = webdriver.Chrome(path)
 
 def agoda_search(keyword, check_in_date='2021-12-13', check_out_date='2021-12-14'):
     # 호텔 서치 > 일단 부산만
-    URL = 'https://www.agoda.com/ko-kr/search?city=17172&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2' \
-          '&children=0&priceCur=KRW&los=1&textToSearch=부산&checkIn='+check_in_date+'&checkOut='+check_out_date
+    # URL = 'https://www.agoda.com/ko-kr/search?city=17172&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2' \
+    #        '&children=0&priceCur=KRW&los=1&textToSearch=부산&checkIn='+check_in_date+'&checkOut='+check_out_date
+    
+    # 서울특별시
+    URL = 'https://www.agoda.com/ko-kr/search?city=14690&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2&' \
+           'children=0&priceCur=KRW&los=1&textToSearch=서울&checkIn='+check_in_date+'&checkOut='+check_out_date
+
+    # 제주도
+    # URL = 'https://www.agoda.com/ko-kr/search?city=16901&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2' \
+    #       '&children=0&priceCur=KRW&los=1&textToSearch=제주도&checkIn='+check_in_date+'&checkOut='+check_out_date
+
+    # 경기도
+    # URL = 'https://www.agoda.com/ko-kr/search?region=372&locale=ko-kr&languageId=9&origin=KR' \
+    #       '&rooms=1&adults=2&children=0&priceCur=KRW&los=1&textToSearch=%EA%B2%BD%EA%B8%B0%EB%8F%84&travellerType=1' \
+    #      '&familyMode=off&productType=-1&checkIn='+check_in_date+'&checkOut='+check_out_date
 
     driver.get(URL)
 
@@ -187,13 +200,14 @@ def agoda_detail(url, origin_dic):
 def main():
     # df = pd.read_excel('./../data/hotel_2021_11_29_vol6.xlsx')  # 10개만 실행
     df = pd.read_csv('./../data/hotel_2021_11_29_vol6.csv')
-    df = df[df['호텔명(등록명칭)'] == '아르반시티 호텔']
+    # df = df[df['호텔명(등록명칭)'] == '아르반시티 호텔']
+    df = df[df['지역1(시도)'] == '서울특별시']
     print(df)
 
     df_values = df.values
     prc = []
 
-    standard_date = '2021-12-13'
+    standard_date = '2022-01-10'
     check_in, check_out = calc_date(standard_date)
     try:
         for dfv in df_values:
@@ -222,7 +236,7 @@ def main():
         org_df = pd.DataFrame(df_values)
         price_df = pd.DataFrame(prc)
         result = pd.concat([org_df, price_df], axis=1)
-        result.to_csv('./result/test.csv', encoding='utf-8-sig')
+        result.to_csv('./result/서울.csv', encoding='utf-8-sig')
 
         driver.quit()
 
