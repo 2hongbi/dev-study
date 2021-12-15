@@ -13,6 +13,7 @@ from selenium.webdriver.common.keys import Keys
 from src.data_utils import cleansing, get_hotel_en, similar, get_room_area, calc_date, calc_weekend_price
 import openpyxl
 
+
 path = chromedriver_autoinstaller.install()  # 크롬 드라이버 install
 driver = webdriver.Chrome(path)
 

@@ -1,6 +1,9 @@
 부산
 https://www.agoda.com/ko-kr/search?city=17172&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2&children=0&priceCur=KRW&los=1&textToSearch=부산
 
+
+https://www.agoda.com/ko-kr/search?city=19041&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2&children=0&priceCur=KRW&los=1
+
 경기도
 https://www.agoda.com/ko-kr/search?region=372&locale=ko-kr&languageId=9&origin=KR&checkIn=2021-12-27&checkOut=2021-12-28&rooms=1&adults=2&children=0&priceCur=KRW&los=1&textToSearch=%EA%B2%BD%EA%B8%B0%EB%8F%84&travellerType=1&familyMode=off&productType=-1
 
