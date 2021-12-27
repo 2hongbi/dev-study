@@ -12,31 +12,18 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from src.data_utils import cleansing, get_hotel_en, similar, get_room_area, calc_date, calc_weekend_price
 import openpyxl
+from consts import URL
 
 
 path = chromedriver_autoinstaller.install()  # 크롬 드라이버 install
 driver = webdriver.Chrome(path)
 
 
-def agoda_search(keyword, check_in_date='2021-12-13', check_out_date='2021-12-14'):
-    # 호텔 서치 > 일단 부산만
-    # URL = 'https://www.agoda.com/ko-kr/search?city=17172&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2' \
-    #        '&children=0&priceCur=KRW&los=1&textToSearch=부산&checkIn='+check_in_date+'&checkOut='+check_out_date
-    
-    # 서울특별시
-    URL = 'https://www.agoda.com/ko-kr/search?city=14690&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2&' \
-           'children=0&priceCur=KRW&los=1&textToSearch=서울&checkIn='+check_in_date+'&checkOut='+check_out_date
+def agoda_search(area, keyword, check_in_date='2021-12-13', check_out_date='2021-12-14'):
 
-    # 제주도
-    # URL = 'https://www.agoda.com/ko-kr/search?city=16901&currency=KRW&languageId=9&origin=KR&rooms=1&adults=2' \
-    #       '&children=0&priceCur=KRW&los=1&textToSearch=제주도&checkIn='+check_in_date+'&checkOut='+check_out_date
-
-    # 경기도
-    # URL = 'https://www.agoda.com/ko-kr/search?region=372&locale=ko-kr&languageId=9&origin=KR' \
-    #       '&rooms=1&adults=2&children=0&priceCur=KRW&los=1&textToSearch=%EA%B2%BD%EA%B8%B0%EB%8F%84&travellerType=1' \
-    #      '&familyMode=off&productType=-1&checkIn='+check_in_date+'&checkOut='+check_out_date
-
-    driver.get(URL)
+    url = URL[area].format(check_in_date, check_out_date)
+    print('[{0}]'.format(url))
+    driver.get(url)
 
     time.sleep(random.uniform(3, 6))
 
@@ -50,18 +37,21 @@ def agoda_search(keyword, check_in_date='2021-12-13', check_out_date='2021-12-14
 
     time.sleep(random.uniform(3, 6))
 
-    # ol class #hotel-list-container
-
     try:
+        # ol class #hotel-list-container
+
         search_hotel = driver.find_element(By.CLASS_NAME, 'hotel-list-container')
 
         time.sleep(random.uniform(3, 6))
 
-        first_hotel = search_hotel.find_element(By.TAG_NAME, 'li')
-        first_hotel_url = first_hotel.find_element(By.TAG_NAME, 'a').get_attribute('href')
-        return first_hotel_url
+        # first_hotel = search_hotel.find_elements(By.TAG_NAME, 'li')
+        # first_hotel_url = first_hotel.find_element(By.TAG_NAME, 'a').get_attribute('href')
+        hotels = search_hotel.find_elements(By.CLASS_NAME, 'JacketContent')
+        print('>> Search Results : ', len(hotels))
+        # print(len(hotels), [str(hotel.find_element(By.TAG_NAME, 'a').get_attribute('href')) for hotel in hotels])
+        return [hotel.find_element(By.TAG_NAME, 'a').get_attribute('href') for hotel in hotels]
     except NoSuchElementException:
-        return False
+        return None
 
 
 # 아고다 호텔룸의 디테일 정보를 갖고 옴
@@ -103,11 +93,7 @@ def get_room_info(element):
 
 
 def agoda_detail(url, origin_dic):
-    if origin_dic['standard_date'] > '2022-01-31':
-        return False
 
-    # path = chromedriver_autoinstaller.install()
-    # driver = webdriver.Chrome(path)
     time.sleep(random.uniform(3, 6))
 
     driver.get(url)
@@ -126,6 +112,7 @@ def agoda_detail(url, origin_dic):
     print(longitude)
 
     time.sleep(random.uniform(3, 6))
+
     # address
     # address = driver.find_element(By.XPATH, '/html/head/meta[13]').get_attribute('content')
     # print(address)
@@ -180,7 +167,7 @@ def agoda_detail(url, origin_dic):
             print(index, room_nm, room_area, room_price)
             room_price_weekend = calc_weekend_price(room_price)
 
-            crawl_dic = {'hotel_en_nm': eng_nm, 'room_index': index,'room_nm': room_nm, 'room_price': room_price,
+            crawl_dic = {'hotel_en_nm': eng_nm, 'room_index': index, 'room_nm': room_nm, 'room_price': room_price,
                          'room_price_weekend': room_price_weekend,
                          'room_area': room_area, 'standard_date': origin_dic['standard_date']}
 
@@ -198,46 +185,44 @@ def agoda_detail(url, origin_dic):
     return False
 
 
-def main():
-    # df = pd.read_excel('./../data/hotel_2021_11_29_vol6.xlsx')  # 10개만 실행
+def main(standard_date='2022-01-10'):
     df = pd.read_csv('./../data/hotel_2021_11_29_vol6.csv')
+
     # df = df[df['호텔명(등록명칭)'] == '아르반시티 호텔']
-    df = df[df['지역1(시도)'] == '서울특별시']
+    df = df[df['호텔명(등록명칭)'].str.contains('신라스테이') == True]
     print(df)
 
     df_values = df.values
     prc = []
 
-    standard_date = '2022-01-10'
     check_in, check_out = calc_date(standard_date)
     try:
         for dfv in df_values:
-            org = {'name': cleansing(dfv[4]), 'latitude': dfv[17], 'longitude': dfv[18], 'standard_date': standard_date}
+            org = {'area': dfv[1], 'name': cleansing(dfv[4]), 'latitude': dfv[17], 'longitude': dfv[18], 'standard_date': standard_date}
             print('>> ', org)
 
-            detail_url = agoda_search(org['name'], check_in, check_out)
+            detail_urls = agoda_search(org['area'], org['name'], check_in, check_out)
             none_dic = {'hotel_en_nm': '', 'room_index': '', 'room_nm': '', 'room_price': '',
                         'room_price_weekend': '',
                         'room_area': '', 'standard_date': ''}
-            if detail_url:
-                result = agoda_detail(detail_url, org)
-                print(result)
-                if result:
-                    prc.append(result)
-                else:
-                    prc.append(none_dic)
+            if detail_urls:
+                for detail_url in detail_urls:
+                    result = agoda_detail(detail_url, org)
+                    print(result)
+                    if result:
+                        prc.append(result)
+                    else:
+                        prc.append(none_dic)
             else:
                 prc.append(none_dic)
                 continue
-    except Exception:
-        pass
     finally:
         print('>> price_list = ', prc)
 
         org_df = pd.DataFrame(df_values)
         price_df = pd.DataFrame(prc)
         result = pd.concat([org_df, price_df], axis=1)
-        result.to_csv('./result/서울.csv', encoding='utf-8-sig')
+        result.to_csv('./result/test.csv', encoding='utf-8-sig')
 
         driver.quit()
 

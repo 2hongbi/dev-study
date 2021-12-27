@@ -98,5 +98,39 @@ def calc_date(text, mode=None):
     return in_date, out_date
 
 
+def cleansing_rate(text):
+    text = str(text)
+    text = text.replace(" ", "")
+    text = text.replace('\n', '')
+    text = text.replace('\r', '')
+    if re.search('기간만료', text):     # 기간만료, 5성급(기간만료)
+        text = '기간만료'
+    elif re.search('신청완료|신청중', text):   # 신청중, 등급신청완료, 호텔등급신청중\r\n(코로나로 인한 연기)
+        text = '신청중'
+    elif re.search('^\d{4,8}|없음|-|만료|예정|_|미등급|가족|호스텔|호스급|미대상|미신청|소형호텔|X|x|제외|신규|미해당|미정|준비중', text):
+        text = ''
+    elif re.search('평가|심사|심의|결정|보류', text):
+        text = '평가중'
+    elif re.search('^\d$', text):    # 숫자만 있는 경우(1, 2 ... )
+        text = text + '성급'
+    elif re.search('특\d등급|특\d급', text):  # 특~등급 > ~성급
+        if text == '특1등급':
+            text = '5성급'
+        elif text == '특2등급' or text == '특2급':
+            text = '4성급'
+    elif re.search('\d등급', text):   # ~등급 > ~성급
+        if text == '1등급':
+            text = '3성급'
+        elif text == '2등급':
+            text = '2성급'
+        elif text == '3등급':
+            text = '1성급'
+        elif text == '4등급':
+            text = '4성급'
+    elif re.search('\d성', text):    # ~성 > ~성급
+        text = text + '급'
+    return text
+
+
 if __name__ == '__main__':
     print(calc_date('2021-12-25'))
