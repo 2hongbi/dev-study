@@ -8,6 +8,7 @@ from django.urls import reverse_lazy
 
 class BookmarkListView(ListView):
     model = Bookmark
+    paginate_by = 6     # 한 페이지에 몇 개씩 출력할 것인지 결정
 
 
 class BookmarkCreateView(CreateView):
