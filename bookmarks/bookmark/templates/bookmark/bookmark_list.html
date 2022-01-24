@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
+{% block title %}Bookmark List{% endblock %}
+
+{% block content %}
 <div class="btn-group">
     <!-- add라는 이름을 가진 URL 패턴을 찾아서 URL 출력해라 -->
     <a href="{% url 'add' %}" class="btn btn-info">Add Bookmark</a>
@@ -32,5 +29,4 @@
         {% endfor %}
     </tbody>
 </table>
-</body>
-</html>
+{% endblock %}
