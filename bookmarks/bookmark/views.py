@@ -25,3 +25,8 @@ class BookmarkUpdateView(UpdateView):
     model = Bookmark
     fields = ['site_name', 'url']
     template_name_suffix = '_update'
+
+
+class BookmarkDeleteView(DeleteView):
+    model = Bookmark
+    success_url = reverse_lazy('list')  # 목록 페이지를 가도록 설정
