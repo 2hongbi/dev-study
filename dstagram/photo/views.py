@@ -6,7 +6,7 @@ from .models import Photo
 def photo_list(request):
     # 함수형 뷰는 기본 매개변수로 request 설정
     photos = Photo.objects.all()
-    return render(request, 'photo/list.html', {'photos':photos})
+    return render(request, 'photo/list.html', {'photos': photos})
 
 
 class PhotoUploadView(CreateView):
