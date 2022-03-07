@@ -1,0 +1,4632 @@
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4등급 <class 'str'>
+>>>>> 4등급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  경매중 <class 'str'>
+>>>>> 경매중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  신청중 <class 'str'>
+>>>>> 신청중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  신청중 <class 'str'>
+>>>>> 신청중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성 <class 'str'>
+>>>>> 1성급
+>>  2성 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성 <class 'str'>
+>>>>> 1성급
+>>  1성 <class 'str'>
+>>>>> 1성급
+>>  2성 <class 'str'>
+>>>>> 2성급
+>>  2성 <class 'str'>
+>>>>> 2성급
+>>  2성 <class 'str'>
+>>>>> 2성급
+>>  1성 <class 'str'>
+>>>>> 1성급
+>>  2성 <class 'str'>
+>>>>> 2성급
+>>  2성 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  5성급 <class 'str'>
+>>>>> 5성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  특2등급(4성) <class 'str'>
+>>>>> 특2등급(4성)
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  3성급 <class 'str'>
+>>>>> 3성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  1성급 <class 'str'>
+>>>>> 1성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  평가중 <class 'str'>
+>>>>> 평가중
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>  2성급 <class 'str'>
+>>>>> 2성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>  4성급 <class 'str'>
+>>>>> 4성급
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
+>>   <class 'str'>
+>>>>> 
