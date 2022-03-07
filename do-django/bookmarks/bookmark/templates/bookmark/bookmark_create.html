@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Bookmark Add{% endblock %}
+
+{% block content %}
+<form action="" method="post">
+    {% csrf_token %}    <!-- csrf_token : CSRF(Cross Site Request Forgery) 공격을 막기 위한 용도 -->
+    {{form.as_p}}   <!-- 클래스 형 뷰의 옵션 값으로 설정한 필드를 출력하는데 각 필드 폼 태그를 p 태그로 감싸 출력함 -->
+    <input type="submit" value="Add" class="btn btn-info btn-sm">
+</form>
+{% endblock %}
